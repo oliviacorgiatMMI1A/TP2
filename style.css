@@ -6,8 +6,9 @@
 
 #header
 {
-	background: #ccc;
+	background:#702963;
 	padding: 20px;
+	
 }
 
 #header h1 { margin: 0; }
@@ -36,7 +37,7 @@
 	display: block;
 	float: left;
 	padding: 5px 10px;
-	color: #fff;
+	color: pink;
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
@@ -45,6 +46,7 @@
 
 #edito
 {
+    color:#702963;
 	clear: left;
 	padding: 20px;
 	margin: 20px;
@@ -62,13 +64,14 @@
 
 #edito h2
 {
-	color: #000;
+	color:pink;
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
 
 #news
 {	
+    color:pink;
 	float: left;
 	width: 40%;
 	padding: 20px;
@@ -82,14 +85,15 @@
 	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
-	opacity: 0.83;
+	opacity: 0.90;
 }
 
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: #702963;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
+	
 }
